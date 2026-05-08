@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niyad-Sunil-14
 - 👀 I’m interested in coding
-- 🌱 I’m currently done learning Python django
+- 🌱 I’m currently done learning Python Stack on Web Development
 - 💞️ I’m looking to collaborate on devlepoment projects and Freelancing work
 - 📫 How to reach me 8590702607
 - 😄 Pronouns: Niyad
